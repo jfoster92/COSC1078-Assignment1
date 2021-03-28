@@ -1,0 +1,47 @@
+header{
+    text-align: center;
+    margin: 50px;
+    font-size: larger;
+}
+
+body{
+    background-color: #2d3e4e;
+}
+p{
+    background-color: #e09e50;
+    margin-bottom:20px;
+}
+h1{
+    background-color: #e09e50;
+    border: #2d3e4e;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+h2{
+    background-color: #e8eceb;
+    text-align: center;
+    
+}
+h3{
+    background-color: #e8eceb;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: center;
+}
+h4{
+    background-color: #e8eceb;
+    margin-left:30px ;
+    margin-right: 30px;
+    text-align: center;
+}
+button{
+    margin-top: 10px;
+    border-style: double;
+    border-color: #e8eceb;
+}
+footer{
+ 
+    position: relative;
+    text-align: center;
+}
